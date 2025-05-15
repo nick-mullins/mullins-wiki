@@ -1,0 +1,45 @@
+{
+    "name": "Nicholas Mullins",
+    "headline": "Technology Leader | Software Engineer | Problem Whisperer",
+    "email": "you@example.com",
+    "github": "nick-mullins",
+    "linkedin": "nicholas-mullins-5ba48341",
+    "about": "I'm Nicholas Mullins — a technology leader and software developer with over a decade of experience building systems and leading teams. I’ve worked across enterprise platforms, taught college-level computer science, and thrive at the intersection of engineering, collaboration, and mentorship. I believe in scalable code, honest leadership, and never deploying on Fridays.",
+    "experience": [
+        {
+            "role": "Delivery Director",
+            "company": "Merkle",
+            "years": "2013-Present",
+            "summary": "As a technology leader at Merkle, I spearhead the development and delivery of scalable loyalty and promotions engineering solutions. My role involves collaborating with cross-functional teams to design and implement systems that enhance customer engagement and drive business growth. With over 12 years of experience in the tech industry, I focus on building both robust systems and high-performing teams, fostering a culture of innovation and continuous improvement."
+        },
+        {
+            "role": "Adjunct Instructor",
+            "company": "Oakland Community College",
+            "years": "2016-2024",
+            "summary": "Taught Game Design, C++, Java, and Swift courses as an adjunct instructor. Emphasized hands-on learning, real-world development practices, and student engagement in computer science fundamentals."
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "Node.js",
+        "Perl",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Bash/Zsh",
+        "Docker",
+        "Git",
+        "GitHub",
+        "CI/CD",
+        "ESLint",
+        "Jira",
+        "Confluence",
+        "System Design",
+        "Code Reviews",
+        "Agile/Scrum",
+        "Cross-functional Collaboration",
+        "Mentorship & Coaching",
+        "Tech Leadership",
+        "Teaching"
+    ]
+}
