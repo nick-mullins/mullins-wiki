@@ -1,2 +1,2 @@
-# mullins.to
-mullins.to web page
+# mullins.wiki
+mullins.wiki web page
